@@ -1,0 +1,7 @@
+This is a simple readme file for my hello world repository.
+
+public static void main(String[] args) {
+  System.out.println("Hello World!");
+}
+
+Now i have officially started my journey!
